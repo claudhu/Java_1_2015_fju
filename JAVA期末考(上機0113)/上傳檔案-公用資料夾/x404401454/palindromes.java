@@ -1,0 +1,18 @@
+import java.util.Scanner;
+
+
+public class palindromes {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+        Scanner input = new Scanner(System.in);
+        System.out.println("請輸入一個單詞，檢測其是否為回");
+        System.out.println("文");
+        String put=input.nextLine();
+        for(int i=1;i<=put.length();i++){
+        	
+        }
+       
+	}
+
+}
